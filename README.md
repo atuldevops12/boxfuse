@@ -7,6 +7,7 @@ Boxfuse Sample Hello World Java application packaged as a war file
 -vagrant
 - Git
 - Java
+-nagios
 - Maven
 - VirtualBox
 - Boxfuse
