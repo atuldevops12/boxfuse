@@ -10,6 +10,7 @@ Boxfuse Sample Hello World Java application packaged as a war file
 - Maven
 - VirtualBox
 - Boxfuse
+- this is my new project cicd
 
 ## Running
 
